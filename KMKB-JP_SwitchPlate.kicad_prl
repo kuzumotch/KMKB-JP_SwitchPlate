@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "000dc00_00000000",
+    "visible_layers": "000de00_00000000",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "KMKB-JP_Poker_SwitchPlate.kicad_prl",
+    "filename": "KMKB-JP_SwitchPlate.kicad_prl",
     "version": 3
   },
   "project": {
